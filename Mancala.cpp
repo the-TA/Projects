@@ -513,7 +513,3 @@ int AIBinChoice(int beadArray[MAX])
 	system("pause");
 	return binChoice;		// The computers choice of index
 }
-
-
-
-// Problems: none
