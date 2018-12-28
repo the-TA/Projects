@@ -2,7 +2,7 @@
 AUTHOR:			Isaac
 INSTRUCTOR:		Victoria Eisele
 TITLE:			CSC 225 Final Project
-DUE:				12/12/2017
+DUE:			12/12/2017
 DESCRIPTION:	Reads in a file containing assembly code and interprets it, storing the corresponding values in a simmulated memory.
 It then simmulates running the assembled machine code.
 The assembly code is a program that sorts an array of numbers using either Bubble sort or Quick sort.
