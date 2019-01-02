@@ -1,4 +1,4 @@
-/* Jason Gilmore & Isaac Haas 
+/* Isaac Haas 
 12/14/2015
 Final Project CSC 119 601
 Minesweeper game
